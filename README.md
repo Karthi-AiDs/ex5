@@ -1,6 +1,7 @@
 # Ex.05 Design a Website for Server Side Processing
 ## Date: 26/04/2025
-
+## Name: KARTHIKEYAN D
+## Regno: 212224230115
 ## AIM:
  To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
 
@@ -38,7 +39,7 @@ Publish the website in the given URL.
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <title>Surface Area of Right Cylinder</title>
-<title>HARIHARAN A(212223110013)</title>
+<title>KARTHIKEYAN D [212224230115]</title>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body
@@ -77,7 +78,7 @@ padding-top: 20px;
 <body>
 <div class="edge">
 <div class="box">
- HARIHARAN A (212223110013)
+ KARTHIKEYAN D [212224230115]
 <h1>Surface Area of Right Cylinder</h1>
 <form method="POST">
 {% csrf_token %}
@@ -141,7 +142,8 @@ urlpatterns = [
 
 ## HOMEPAGE:
 
-![Screenshot (47)](https://github.com/user-attachments/assets/4b701125-5620-481b-b175-63300980760f)
+![image](https://github.com/user-attachments/assets/797be244-8e8e-4a02-8efe-49f5b555114f)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
