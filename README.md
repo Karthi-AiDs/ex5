@@ -13,6 +13,8 @@ P = I<sup>2</sup>R
 <br> I --> Intensity
 <br> R --> Resistance
 
+
+
 ## DESIGN STEPS:
 
 ### Step 1:
